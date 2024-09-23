@@ -6,7 +6,7 @@ This codebase stores the complete artifacts and describes how to reproduce or ex
 
 # List of Benchmarks
 
-In this table, you can find the complete list of benchmarks we use in **MisMo-Bench**, along with the codebase necessary to run them. Below, we describe how to work with each codebase.
+In this table, you can find the complete list of benchmarks we use in **SOS-Bench**, along with the codebase necessary to run them. Below, we describe how to work with each codebase.
 
 | **Benchmark Name**                  | **Reference**                                           | **Test Set Size** | **Metric**                | **Factor** | **Eval Codebase** |
 |---------------------------------|-----------------------------------------------------|---------------|-----------------------|--------|---------------|
@@ -60,9 +60,9 @@ Filenames: livebench_groups.csv, livebench_tasks.csv
 Fields: model (describes the name of the dataset and preference optimization method, if any), scores (either task-wise or group-wise)
 ```
 
-# How to Run MisMo-Bench
+# How to Run SOS-Bench
 
-The entirety of MisMo-Bench can be run as a two-stage process; the first set of benchmarks can be completed using a fork of the Eleuther AI Harness, and the second set can be run using the LiveBench codebase.
+The entirety of SOS-Bench can be run as a two-stage process; the first set of benchmarks can be completed using a fork of the Eleuther AI Harness, and the second set can be run using the LiveBench codebase.
 
 ## Eleuther
 
