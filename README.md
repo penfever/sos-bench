@@ -1,8 +1,8 @@
-# Style over Substance: Failure modes of LLM judges in alignment benchmarking
+# Style Outweighs Substance: Failure modes of LLM judges in alignment benchmarking
 
 ![](./figures/mismo-fig.png)
 
-This codebase stores the complete artifacts and describes how to reproduce or extend the results from the paper "Style over Substance: Failure modes of LLM judges in alignment benchmarking".
+This codebase stores the complete artifacts and describes how to reproduce or extend the results from the paper "Style Outweighs Substance: Failure modes of LLM judges in alignment benchmarking".
 
 # List of Benchmarks
 
