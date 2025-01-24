@@ -1,4 +1,4 @@
-# Style Outweighs Substance: Failure modes of LLM judges in alignment benchmarking
+# Style Outweighs Substance: Failure modes of LLM judges in alignment benchmarking (ICLR 2025)
 
 ![](./figures/mismo-fig.png)
 
@@ -79,3 +79,15 @@ The entirety of SOS-Bench can be run as a two-stage process; the first set of be
 2. Follow the instructions provided in the repository readme.
 
 # Citation
+
+```
+@misc{feuer2024styleoutweighssubstancefailure,
+      title={Style Outweighs Substance: Failure Modes of LLM Judges in Alignment Benchmarking}, 
+      author={Benjamin Feuer and Micah Goldblum and Teresa Datta and Sanjana Nambiar and Raz Besaleli and Samuel Dooley and Max Cembalest and John P. Dickerson},
+      year={2024},
+      eprint={2409.15268},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2409.15268}, 
+}
+```
