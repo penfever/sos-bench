@@ -4,6 +4,10 @@
 
 This codebase stores the complete artifacts and describes how to reproduce or extend the results from the paper "Style Outweighs Substance: Failure modes of LLM judges in alignment benchmarking".
 
+UPDATE (03-31-25): The larger artifacts, such as raw model responses and judgments, can now be found in the [HuggingFace repository](https://huggingface.co/datasets/nyu-dice-lab/sos-artifacts) associated with this paper. We have also added detailed [SOS-Bench results]([https://huggingface.co/collections/nyu-dice-lab/sos-bench-detailed](https://huggingface.co/collections/nyu-dice-lab/sos-bench-detailed-67431b712b9c54ee6b084cc5)) for hundreds of 8B models. Last but not least, we have added a HuggingFace collection with all of the [models](https://huggingface.co/collections/nyu-dice-lab/sos-bench-models-675c4269d2e39b3146085fd1) we trained for this paper.
+
+
+
 # List of Benchmarks
 
 In this table, you can find the complete list of benchmarks we use in **SOS-Bench**, along with the codebase necessary to run them. Below, we describe how to work with each codebase.
